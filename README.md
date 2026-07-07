@@ -3,7 +3,7 @@
 AI Product Strategy & Feedback Intelligence System built with Gemini and Google ADK.
 
 ## Problem
-Product teams spend hours manually analyzing customer feedback.
+Product teams spend hours manually analysing customer feedback.
 
 ## Solution
 InsightForge AI automatically:
@@ -11,7 +11,7 @@ InsightForge AI automatically:
 - Identifies pain points
 - Extracts feature requests
 - Creates product recommendations
-- Generates prioritized roadmaps
+- Generates prioritised roadmaps
 - Produces PRD summaries
 
 ## Tech Stack
@@ -22,7 +22,7 @@ InsightForge AI automatically:
 
 ## Features
 - Customer feedback analysis
-- Product prioritization
+- Product prioritisation
 - Roadmap generation
 - PRD creation
 - Interactive dashboard
