@@ -16,7 +16,6 @@ InsightForge AI automatically:
 
 ## Tech Stack
 - Python
-- Streamlit
 - Gemini 2.5 Flash
 - Google ADK
 - GitHub
