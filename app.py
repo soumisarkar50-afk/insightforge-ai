@@ -4,7 +4,7 @@ import os
 from dotenv import load_dotenv
 load_dotenv("app/.env")
 
-client = genai.Client(api_key=st.secrets["GOOGLE_API_KEY"])
+client = genai.Client(api_key=os.getenv("GOOGLE_API_KEY"))
 )
 
 
