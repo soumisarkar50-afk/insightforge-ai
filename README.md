@@ -34,8 +34,8 @@ Paste customer feedback and receive AI-powered product insights instantly.
 - Multi-agent orchestration
 - RICE scoring engine
 - Jira integration
+- Slack notifications
+- Real-time analytics dashboard
 
 ## URL
 https://insightforge-ai-vdu4jflnjvzuscpq9pmfwg.streamlit.app/
-- Slack notifications
-- Real-time analytics dashboard
